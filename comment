@@ -1,0 +1,10 @@
+echo "comment demo"
+echo "S L C starts"
+#echo "this line is commented"
+echo "M L C starts"
+<<syeda
+taj
+devops
+tool
+git
+echo "M L C over"
